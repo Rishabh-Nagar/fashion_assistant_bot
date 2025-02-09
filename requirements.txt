@@ -1,0 +1,10 @@
+notebook
+langchain
+langchain-community
+duckduckgo-search
+fake-useragent
+ollama
+requests
+beautifulsoup4
+pytz
+streamlit
