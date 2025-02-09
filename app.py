@@ -69,7 +69,7 @@ def initialize_shopping_agent():
         {chat_history}
         
         Human: {input}
-        Assistant: I'll search for these products and compare prices across different stores."""
+        Assistant: I'll search for these products and if needed will compare prices across different stores."""
 
     shopping_prompt = PromptTemplate(
         input_variables=["chat_history", "input"],
