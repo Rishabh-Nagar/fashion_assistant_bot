@@ -5,7 +5,9 @@ This repository contains an AI-powered **Virtual Shopping Assistant** built usin
 
 ---
 
-## 📊 The Research Paper Study is present in the Analysis.pdf
+#### 📄 The Research Paper Study is present in the Analysis.pdf
+
+---
 
 ## 📊 Comparative Conceptual Map (Analysis of Approaches)
 
