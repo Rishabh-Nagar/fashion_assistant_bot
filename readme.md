@@ -102,7 +102,14 @@ pip install -r requirements.txt
 python3 agent.py
 ```
 
+### **1️⃣ Deployment link of the project**
+```sh
+https://0b9b-2402-e280-230d-37b-5cae-dd4a-9f37-620.ngrok-free.app/
+```
+
+
 🔹 **Ask the Fashion products related question**. 🚀
+
 
 
 
