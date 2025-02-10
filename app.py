@@ -21,7 +21,7 @@ if 'chat_history' not in st.session_state:
 
 def create_llm():
     """Create and return the language model."""
-    return Ollama(model="mistral", temperature=1.0)
+    return Ollama(model="mistral", temperature=0.0)
 
 def create_agent_tools():
     """Create and return the list of tools for the agent."""
